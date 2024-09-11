@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: rubik, sans-serif;
+  color: var(--primary-font-color);
+  scroll-behavior: smooth;
+  /* overflow: hidden; */
+
+}
+
+:root {
+  --primary-font-color: white;
+  --primary-background:/* #1e1e1e*/ #15051A;
+  --primary-color:/* #fd6f00*/#CAADFF;
+}
